@@ -16,10 +16,14 @@ This plugin short code update the copyright year automatically every year using 
 Want to write copyright year once when you create your WordPress website, and looking forward to update it automatically?!
 Dijital Ortağım found the way to do it. Using Auto Copyright Year Plugin will help you to do that in very simple way, just paste the shortcode wherever you want to show copyright year.
 
-# This plugin short code update the copyright year automatically every year using shortcode [do_year].
-# Also you can add Ⓒ COPYRIGHT symbol using [do_copy].
-# Also you can add ® REGISTERED symbol using [do_tm].
-# Also you can add ™ TRADEMARK symbol using [do_reg].
+This plugin short code update the copyright year automatically every year using shortcode [do_year].
+
+Also you can add Ⓒ COPYRIGHT symbol using [do_copy].
+
+Also you can add ® REGISTERED symbol using [do_tm].
+
+Also you can add ™ TRADEMARK symbol using [do_reg].
+
 
 To learn more about this plugin and its features, please visit our [plugin page](https://dijitalortagim.com/our_plugins/auto-copyright-year/).
 
